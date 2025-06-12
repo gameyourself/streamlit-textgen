@@ -1,0 +1,6 @@
+streamlit
+keras
+tensorflow
+jieba
+gensim
+numpy
